@@ -1,0 +1,28 @@
+#content {
+	width: 700px;
+}
+
+#content-inner {
+	background-color: rgb(240, 240, 240);
+	padding: 1em;
+	border-radius: 10px;
+}
+
+#title {
+	font-family: 'Parmanent Marker', cursive;
+	font-weight: 400;
+	font-size: 1em;
+	font-style: normal;
+}
+
+#sub-title {
+	font-size: 1.5em;
+}
+
+#sub-title span {
+	border-bottom: 5px solid #085ed6;
+}
+
+.CSVImporter_importer {
+	margin-top: 3em;
+}

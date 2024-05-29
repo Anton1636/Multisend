@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'react-csv-importer/dist/index.css'
 import './styles.css'
 
 export const metadata = {
